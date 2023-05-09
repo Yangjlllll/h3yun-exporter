@@ -1,0 +1,17 @@
+server-name: h3yun-exporter
+desc: h3yun-exporter 
+dispatch-url:
+agent-route:
+register-info-cache-url:
+db-config:
+  host:
+  port:
+  db-name:
+  username:
+  password:
+shared-service-db-config:
+  host:
+  port:
+  db-name:
+  username:
+  password:
